@@ -1,0 +1,47 @@
+/* h1{
+    border: 1px solid red;
+}
+p{
+    border: 1px solid rgb(red, green, blue);
+}
+a{
+    border: 1px solid blue;
+} */
+/* .div1{
+    background-color:green;
+    width: 300px;
+    color: aliceblue;
+}
+span{
+    color: red;
+}
+#div2{
+    color: orange;
+    width: 200px;
+    background-color: black;
+} */
+.header{
+    height: 80px;
+    border: 2px solid red;
+    display: flex;
+    justify-content:space-between;
+    padding: 20PX;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    font-size: 30px;
+    font-weight: 900;
+}
+li{
+    margin: 40px;
+}
+.container{
+    border: 2px solid blue;
+    height: 500px;
+}
+.footer{
+    height: 80px;
+    border: 2px solid green;
+}
